@@ -1,7 +1,5 @@
 <p align="center">
-  👤 unfunny man, professional code breaker, star wars rebels enthusiast 👤
-  <br>
-  not actually sabine wren
+  👤 unfunny man, professional code breaker, star wars rebels and linus tech tips enthusiast 👤
   <br>
   <a href="https://mnguyen.net">website</a> | <a href="https://youtube.com/c/ModzOnGaming">youtube</a>
   <hr>
