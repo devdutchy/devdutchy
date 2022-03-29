@@ -1,5 +1,5 @@
 <p align="center">
-  👤 unfunny man, professional code breaker, star wars rebels and linus tech tips enthusiast 👤
+  👤 unfunny man, professional code breaker, star wars rebels and formula racing enthusiast 👤
   <br>
   <a href="https://mnguyen.net">website</a> | <a href="https://youtube.com/c/ModzOnGaming">youtube</a>
   <hr>
